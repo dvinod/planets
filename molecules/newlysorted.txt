@@ -1,0 +1,7 @@
+   9   57  431 methane.pdb
+  12   84  634 ethane.pdb
+  15  111  840 propane.pdb
+  20  156 1178 cubane.pdb
+  21  165 1247 pentane.pdb
+  30  246 1858 octane.pdb
+ 107  819 6188 total
